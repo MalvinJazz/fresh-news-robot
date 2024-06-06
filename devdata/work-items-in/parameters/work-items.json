@@ -1,0 +1,11 @@
+[
+  {
+    "payload": {
+      "search": {
+        "phrase": "Wall Street",
+        "topic": "California",
+        "months": 0
+      }
+    }
+  }
+]
